@@ -171,3 +171,4 @@ C:\Users\Bharath.C\OneDrive - Motherson Group\Desktop\MVC\MediConnect.API\obj\De
 C:\Users\Bharath.C\OneDrive - Motherson Group\Desktop\MVC\MediConnect.API\obj\Debug\net8.0\MediConnect.API.pdb
 C:\Users\Bharath.C\OneDrive - Motherson Group\Desktop\MVC\MediConnect.API\obj\Debug\net8.0\MediConnect.API.genruntimeconfig.cache
 C:\Users\Bharath.C\OneDrive - Motherson Group\Desktop\MVC\MediConnect.API\obj\Debug\net8.0\ref\MediConnect.API.dll
+C:\Users\Bharath.C\OneDrive - Motherson Group\Desktop\MVC\MediConnect.API\obj\Debug\net8.0\MediConnect.API.sourcelink.json
