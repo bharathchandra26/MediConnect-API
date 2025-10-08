@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTkICLwcr2I=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.36\\microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.9\\microsoft.entityframeworkcore.design.9.0.9.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.9\\microsoft.entityframeworkcore.relational.9.0.9.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.9\\microsoft.entityframeworkcore.sqlserver.9.0.9.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.9\\microsoft.entityframeworkcore.tools.9.0.9.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.35.0\\microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.logging\\6.35.0\\microsoft.identitymodel.logging.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.35.0\\system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Bharath.C\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 9.0.9 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package Microsoft.EntityFrameworkCore 9.0.9 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "filePath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 9.0.9 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package Microsoft.EntityFrameworkCore.SqlServer 9.0.9 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "filePath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Relational 9.0.9 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package Microsoft.EntityFrameworkCore.Relational 9.0.9 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "filePath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 9.0.9 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package Microsoft.EntityFrameworkCore.Design 9.0.9 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "filePath": "C:\\Users\\Bharath.C\\OneDrive - Motherson Group\\Desktop\\MVC\\MediConnect.API\\MediConnect.API.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
